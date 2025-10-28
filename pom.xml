@@ -45,6 +45,9 @@
         <modules>
         	<module>retail-Material</module>
 			<module>server</module>
+			<module>euraka</module>
+			<module>reatial-staff</module>
+			<module>small-services</module>
         </modules>
 
    <!--     <build>
