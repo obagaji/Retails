@@ -7,7 +7,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 @EnableDiscoveryClient
 @SpringBootApplication
 public class SmallServicesApplication {
-
+// me
 	public static void main(String[] args) {
 		SpringApplication.run(SmallServicesApplication.class, args);
 	}
