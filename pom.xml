@@ -48,6 +48,7 @@
 			<module>euraka</module>
 			<module>reatial-staff</module>
 			<module>small-services</module>
+			<module>Retail-gateway</module>
         </modules>
 
    <!--     <build>
